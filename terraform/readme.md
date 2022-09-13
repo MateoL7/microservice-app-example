@@ -9,7 +9,7 @@ output: html_document
 
 # Provisioning using Terraform
 
-This document has the comprobations required to prove the success of the cloud provisioning.
+This document has the evidence required to prove the success of the cloud provisioning.
 
 ## Resource Groups
 
@@ -17,8 +17,8 @@ This document has the comprobations required to prove the success of the cloud p
 
 ## All Resources
 
-![All Resources](./screenshots/All%20Resources%201.png "All Resources")
-![All Resources](./screenshots/All%20Resources%202.png "All Resources")
+![All Resources](./screenshots/All%20Resources.png "All Resources")
+
 
 ## Last Terraform Apply
 
